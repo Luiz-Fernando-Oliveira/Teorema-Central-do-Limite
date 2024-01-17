@@ -1,4 +1,4 @@
-# Teorema-Central-do-Limite: de várias distribuições uniformes para uma normal
+# Teorema-Central-do-Limite: de várias distribuições uniformes para uma normal (Python)
 Aplicação empírica do Teorema Central do Limite - Como transformar distribuições Uniformes em uma Normal
 
 O Teorema do Limite Central é um conceito da estatística que afirma que, quando somamos muitas variáveis aleatórias independentes e identicamente distribuídas, a distribuição resultante se aproxima de uma distribuição normal, independentemente da distribuição original das variáveis individuais.
