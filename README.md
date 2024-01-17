@@ -1,5 +1,5 @@
 # Teorema-Central-do-Limite: de várias distribuições uniformes para uma normal (Python)
-Aplicação empírica do Teorema Central do Limite - Como transformar distribuições Uniformes em uma Normal usando Python
+Aplicação empírica do Teorema Central do Limite - Como transformar distribuições Uniformes em uma Normal usando o método de Monte Carlo em Python
 
 O Teorema do Limite Central é um conceito da estatística que afirma que, quando somamos muitas variáveis aleatórias independentes e identicamente distribuídas, a distribuição resultante se aproxima de uma distribuição normal, independentemente da distribuição original das variáveis individuais.
 
@@ -74,6 +74,7 @@ if __name__ == "__main__":
 
 O resultado devolvido pelo Python foi o seguinte:
 
+![image](https://github.com/Luiz-Fernando-Oliveira/Teorema-Central-do-Limite/assets/156798656/af41b557-aafd-4506-b358-ae8c0523ff42)
 
 n = 12
 Mean: -0.0007403938833733143
@@ -83,6 +84,7 @@ Standard Deviation: 0.2893153265394242
 Probability P(X > 2): 0.0
 Probability P(X < -2): 0.0
 
+![image](https://github.com/Luiz-Fernando-Oliveira/Teorema-Central-do-Limite/assets/156798656/ddb8d279-0ddc-426d-a086-4325187a9620)
 
 n = 48
 Mean: -0.0013580343049823108
@@ -92,6 +94,7 @@ Standard Deviation: 0.14466177805876734
 Probability P(X > 2): 0.0
 Probability P(X < -2): 0.0
 
+![image](https://github.com/Luiz-Fernando-Oliveira/Teorema-Central-do-Limite/assets/156798656/390a36d6-ed2e-42f0-9b8d-d2dde37c254f)
 
 n = 96
 Mean: 0.0002171907430629777
